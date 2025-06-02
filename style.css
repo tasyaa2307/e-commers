@@ -112,7 +112,7 @@ header .navbar {
 /* Hero section styling */
 .hero-section {
   min-height: 100vh;
-  background-image: url(images/gambar1.jpeg);
+  background-image: scr="images/gambar1.jpeg";
   background-size: cover;
   background-position: center;
 }
